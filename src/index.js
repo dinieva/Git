@@ -1,3 +1,3 @@
-// Bug count 0
-const a = 1;
+// Bug count 1
+const a = 2;
 console.log(a);
